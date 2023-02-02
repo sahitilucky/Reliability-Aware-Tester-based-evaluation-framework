@@ -1,4 +1,7 @@
-# simiir
+# RATE
+
+The data utilized in SimIIR software is utilized for this project.
+
 This directory contains a number of files for running TREC based simulations.
 
 index/ contains a whoosh index of a small portion of the TREC Aquaint index (see the https://github.com/leifos/ifind for a script for indexing TREC Aquaint)
