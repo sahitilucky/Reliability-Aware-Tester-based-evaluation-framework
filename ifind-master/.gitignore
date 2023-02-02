@@ -1,0 +1,105 @@
+# Misc
+*.keys
+*.db
+*.log
+
+keys.py
+tester.py
+.svn
+
+# Ignoring the large AQUAINT index and treconomics vocabulary files
+/applications/treconomics_project/data/fullindex
+/applications/treconomics_project/data/vocab.txt
+/applications/treconomics_project/data/vocab_trie.dat
+/applications/treconomics_project2/data
+/applications/treconomics_project2/data/fullindex
+/applications/treconomics_project2/data/vocab.txt
+/applications/treconomics_project2/data/vocab_trie.dat
+
+
+
+/apps/simuser/data/fullindex
+/apps/simuser/data/fullindex/wt2g
+/apps/simuser_refactored/data/fullindex
+
+
+# Pycharm / Python
+.idea
+*.pyc
+
+*.DS_Store
+.DS_Store
+
+*~
+*.swp
+*.pot
+
+# ----- Django
+*.pyc
+*.pyo
+.metadata
+local_settings.py
+
+# ----- C
+
+# Object files
+*.o
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# ----- Java
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# ----- LaTeX
+
+*.acn
+*.acr
+*.alg
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.fdb_latexmk
+*.glg
+*.glo
+*.gls
+*.idx
+*.ilg
+*.ind
+*.ist
+*.lof
+*.log
+*.lot
+*.maf
+*.mtc
+*.mtc0
+*.nav
+*.nlo
+*.out
+*.pdfsync
+*.ps
+*.snm
+*.synctex.gz
+*.vrb
+*.xdy
+*.tdo
+*.pdf
