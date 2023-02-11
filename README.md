@@ -5,7 +5,7 @@ This is the code repository for the evaluation framework called Reliability Awar
 **Description:** Reliability Aware Tester based evaluation (RATE) framework is an evaluation framework to compute reliability of user simulators in evaluating interactive retrieval systems. In RATE, we construct evaluation modules called "Tester"'s and then evaluate a set of simulators using a set of testers through iterative reliability propagation.
 
 
-### Paper
+### Papers
 
 Labhishetty et al., In ECIR 2022, _RATE: A Reliability-Aware Tester-Based Evaluation Framework of User Simulators_, https://dl.acm.org/doi/abs/10.1007/978-3-030-99736-6_23
 
