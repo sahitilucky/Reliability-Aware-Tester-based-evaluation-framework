@@ -19,7 +19,7 @@ Labhishetty et al., In SIGIR 2021, _An Exploration of Tester-based Evaluation of
 `iir_methods/` : code of search interfaces with IIR algorithms, BM25variations, click history based methods, query history based methods.
 
 
-## Research Usage
+### Research Usage
 
 If you use our work in your research please cite:
 
@@ -59,7 +59,7 @@ series = {SIGIR '21}
 
 ```
 
-## License
+### License
 
 By using this source code you agree to the license described in https://github.com/sahitilucky/Reliability-Aware-Tester-based-evaluation-framework/blob/master/LICENSE
 
